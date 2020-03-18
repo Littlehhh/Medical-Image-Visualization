@@ -12,10 +12,10 @@
 - for 2D slice
 
 `python QSliceViewWidget.py`
-![Slice View]()
+![Slice View](SliceView.png)
 
 - for 3D volume
 
 `python QVolumeViewWidget.py`
 Tips: you need set your own vtkColorTransferFunction for 3d render
-![Volume View]()
+![Volume View](VolumeView.png)
