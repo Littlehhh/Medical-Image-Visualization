@@ -19,3 +19,7 @@
 `python QVolumeViewWidget.py`
 Tips: you need set your own vtkColorTransferFunction for 3d render
 ![Volume View](VolumeView.png)
+
+## Show
+
+![snapshot](snapshot.png)
